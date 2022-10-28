@@ -1,0 +1,8 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^wave_player$
+^MMA8452$
+^4DGL-uLCD-SE$
